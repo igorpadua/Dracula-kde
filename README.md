@@ -1,5 +1,5 @@
 
-Esse é o Dracula kde um tema para o Plasma com paleta de cores do Dracula theme e baseado no Layan Kde 
+Esse é o Dracula kde um tema para o Plasma com paleta de cores do Dracula theme e baseado no Layan Kde
 
 Neste repositório você encontra:
 
@@ -22,10 +22,9 @@ GNU GPL v3
 Paletas:
 https://github.com/dracula/dracula-theme
 Moldes:
-https://github.com/vinceliuice/Layan-kde #Sua maior base é feita nele com apenas troca de cores
-https://github.com/vinceliuice/ChromeOS-kde #usado para fazer o Desktoptheme
-https://store.kde.org/p/1249119 #Color Schemes apenas feito uma unica mudança
-
-
-
-
+#Sua maior base é feita nele com apenas troca de cores
+https://github.com/vinceliuice/Layan-kde
+#usado para fazer o Desktoptheme
+https://github.com/vinceliuice/ChromeOS-kde
+#Color Schemes apenas feito uma unica mudança
+https://store.kde.org/p/1249119
