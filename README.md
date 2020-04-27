@@ -18,6 +18,14 @@ Se você quiser fazer um donate para o criador do Layan Kde
 
 GNU GPL v3
 
-## preview
+## Referencias
+Paletas:
+https://github.com/dracula/dracula-theme
+Moldes:
+https://github.com/vinceliuice/Layan-kde #Sua maior base é feita nele com apenas troca de cores
+https://github.com/vinceliuice/ChromeOS-kde #usado para fazer o Desktoptheme
+https://store.kde.org/p/1249119 #Color Schemes apenas feito uma unica mudança
+
+
 
 
