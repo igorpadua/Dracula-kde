@@ -38,9 +38,9 @@
      inkscape:window-height="696"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="11.125147"
-     inkscape:cx="-3.1524918"
-     inkscape:cy="1.5091716"
+     inkscape:zoom="7.8666669"
+     inkscape:cx="-2.657146"
+     inkscape:cy="0.57979342"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -95,23 +95,13 @@
       }</style>
   </defs>
   <g
-     transform="translate(0 -904.36)"
+     transform="translate(-0.00419575,-904.18442)"
      id="g6">
     <path
        id="event"
        class="ColorScheme-Highlight"
-       d="m30 918.36-16 16h16z"
-       fill="#4285f4"
-       style="fill:#a27fd6;fill-opacity:1" />
+       d="m 30,918.36 -16,16 h 16 z"
+       style="color:#3daee9;fill:#5a6381;fill-opacity:1"
+       inkscape:connector-curvature="0" />
   </g>
-  <path
-     style="fill:#a27fd6;fill-opacity:1;stroke:none;stroke-width:0.08988646;stroke-opacity:1"
-     d="m 22.006727,22.036981 c 4.350294,-4.350505 7.919824,-7.910008 7.932288,-7.910008 0.01246,0 0.02266,3.559503 0.02266,7.910008 v 7.910008 H 22.02939 14.097102 Z"
-     id="path814"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#a27fd6;fill-opacity:1;stroke:none;stroke-width:0.08988646;stroke-opacity:1"
-     d="m 22.006727,22.036981 c 4.350294,-4.350505 7.919824,-7.910008 7.932288,-7.910008 0.01246,0 0.02266,3.559503 0.02266,7.910008 v 7.910008 H 22.02939 14.097102 Z"
-     id="path816"
-     inkscape:connector-curvature="0" />
 </svg>
