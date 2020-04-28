@@ -103,8 +103,8 @@ ForegroundPositive=80,250,123
 ForegroundVisited=157,157,153
 
 [General]
-ColorScheme=Dracula
-Name=Dracula
+ColorScheme=Dracula-kde
+Name=Dracula-kde
 shadeSortColumn=true
 
 [KDE]
