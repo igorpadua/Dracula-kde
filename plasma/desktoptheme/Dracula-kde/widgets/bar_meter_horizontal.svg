@@ -38,9 +38,9 @@
      inkscape:window-height="696"
      id="namedview33"
      showgrid="false"
-     inkscape:zoom="11.125147"
-     inkscape:cx="-6.8741375"
-     inkscape:cy="13.167662"
+     inkscape:zoom="3.9333334"
+     inkscape:cx="-66.359717"
+     inkscape:cy="21.606253"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -96,7 +96,7 @@
   </defs>
   <rect
      style="fill:#ff5555;fill-opacity:1"
-     x="0"
+     x="1.2711864"
      height="4"
      width="4"
      y="-1.4648437e-05"
@@ -106,105 +106,105 @@
      height="6"
      width="6"
      y="-1.4648437e-05"
-     x="6"
+     x="7.2711864"
      id="hint-bar-size" />
   <path
-     style="fill:#000000;opacity:0.25"
+     style="opacity:0.25;fill:#000000"
      id="bar-inactive-bottomright"
-     d="m 17,15 v 3 c 1.662,0 3,-1.338 3,-3 z"
+     d="m 18.271186,15 v 3 c 1.662,0 3,-1.338 3,-3 z"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#000000;opacity:0.25"
+     style="opacity:0.25;fill:#000000"
      id="bar-inactive-right"
-     d="m 17,12 v 2 h 3 v -2 z"
+     d="m 18.271186,12 v 2 h 3 v -2 z"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#000000;opacity:0.25"
+     style="opacity:0.25;fill:#000000"
      id="bar-inactive-topright"
-     d="m 17,8 v 3 h 3 C 20,9.338 18.662,8 17,8 Z"
+     d="m 18.271186,8 v 3 h 3 c 0,-1.662 -1.338,-3 -3,-3 z"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#000000;opacity:0.25"
+     style="opacity:0.25;fill:#000000"
      id="bar-inactive-bottomleft"
-     d="m 10,15 c 0,1.662 1.338,3 3,3 v -3 z"
+     d="m 11.271186,15 c 0,1.662 1.338,3 3,3 v -3 z"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#000000;opacity:0.25"
+     style="opacity:0.25;fill:#000000"
      id="bar-inactive-left"
-     d="m 10,12 v 2 h 3 v -2 z"
+     d="m 11.271186,12 v 2 h 3 v -2 z"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#000000;opacity:0.25"
+     style="opacity:0.25;fill:#000000"
      id="bar-inactive-topleft"
-     d="m 13,8 c -1.662,0 -3,1.338 -3,3 h 3 z"
+     d="m 14.271186,8 c -1.662,0 -3,1.338 -3,3 h 3 z"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#000000;opacity:0.25"
+     style="opacity:0.25;fill:#000000"
      id="bar-inactive-bottom"
-     d="m 14,15 v 3 h 2 v -3 z"
+     d="m 15.271186,15 v 3 h 2 v -3 z"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#000000;opacity:0.25"
+     style="opacity:0.25;fill:#000000"
      id="bar-inactive-center"
-     d="m 16,12 h -2 v 2 h 2 z"
+     d="m 17.271186,12 h -2 v 2 h 2 z"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#000000;opacity:0.25"
+     style="opacity:0.25;fill:#000000"
      id="bar-inactive-top"
-     d="m 14,8 v 3 h 2 V 8 Z"
+     d="m 15.271186,8 v 3 h 2 V 8 Z"
      inkscape:connector-curvature="0" />
   <path
      id="bar-active-bottomright"
      class="ColorScheme-Highlight"
-     d="m 17,27 v 3 c 1.662,0 3,-1.338 3,-3 z"
+     d="m 18.271186,27 v 3 c 1.662,0 3,-1.338 3,-3 z"
      inkscape:connector-curvature="0"
      style="color:#3daee9;fill:#5a6381;fill-opacity:1" />
   <path
      id="bar-active-right"
      class="ColorScheme-Highlight"
-     d="m 17,24 v 2 h 3 v -2 z"
+     d="m 18.271186,24 v 2 h 3 v -2 z"
      inkscape:connector-curvature="0"
      style="color:#3daee9;fill:#5a6381;fill-opacity:1" />
   <path
      id="bar-active-topright"
      class="ColorScheme-Highlight"
-     d="m 17,20 v 3 h 3 c 0,-1.662 -1.338,-3 -3,-3 z"
+     d="m 18.271186,20 v 3 h 3 c 0,-1.662 -1.338,-3 -3,-3 z"
      inkscape:connector-curvature="0"
      style="color:#3daee9;fill:#5a6381;fill-opacity:1" />
   <path
      id="bar-active-bottomleft"
      class="ColorScheme-Highlight"
-     d="m 10,27 c 0,1.662 1.338,3 3,3 v -3 z"
+     d="m 11.271186,27 c 0,1.662 1.338,3 3,3 v -3 z"
      inkscape:connector-curvature="0"
      style="color:#3daee9;fill:#5a6381;fill-opacity:1" />
   <path
      id="bar-active-left"
      class="ColorScheme-Highlight"
-     d="m 10,24 v 2 h 3 v -2 z"
+     d="m 11.271186,24 v 2 h 3 v -2 z"
      inkscape:connector-curvature="0"
      style="color:#3daee9;fill:#5a6381;fill-opacity:1" />
   <path
      id="bar-active-topleft"
      class="ColorScheme-Highlight"
-     d="m 13,20 c -1.662,0 -3,1.338 -3,3 h 3 z"
+     d="m 14.271186,20 c -1.662,0 -3,1.338 -3,3 h 3 z"
      inkscape:connector-curvature="0"
      style="color:#3daee9;fill:#5a6381;fill-opacity:1" />
   <path
      id="bar-active-bottom"
      class="ColorScheme-Highlight"
-     d="m 14,27 v 3 h 2 v -3 z"
+     d="m 15.271186,27 v 3 h 2 v -3 z"
      inkscape:connector-curvature="0"
      style="color:#3daee9;fill:#5a6381;fill-opacity:1" />
   <path
      id="bar-active-center"
      class="ColorScheme-Highlight"
-     d="m 16,24 h -2 v 2 h 2 z"
+     d="m 17.271186,24 h -2 v 2 h 2 z"
      inkscape:connector-curvature="0"
      style="color:#3daee9;fill:#5a6381;fill-opacity:1" />
   <path
      id="bar-active-top"
      class="ColorScheme-Highlight"
-     d="m 14,20 v 3 h 2 v -3 z"
+     d="m 15.271186,20 v 3 h 2 v -3 z"
      inkscape:connector-curvature="0"
      style="color:#3daee9;fill:#5a6381;fill-opacity:1" />
 </svg>
