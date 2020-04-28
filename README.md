@@ -20,11 +20,19 @@ GNU GPL v3
 
 ## Referencias
 Paletas:
+
 https://github.com/dracula/dracula-theme
+
 Moldes:
+
 #Sua maior base é feita nele com apenas troca de cores
+
 https://github.com/vinceliuice/Layan-kde
+
 #usado para fazer o Desktoptheme
+
 https://github.com/vinceliuice/ChromeOS-kde
+
 #Color Schemes apenas feito uma unica mudança
+
 https://store.kde.org/p/1249119
