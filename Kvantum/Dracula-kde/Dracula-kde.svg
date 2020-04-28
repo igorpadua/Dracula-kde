@@ -32,8 +32,8 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:current-layer="svg1604"
-     inkscape:cx="248.76315"
-     inkscape:cy="497.16518"
+     inkscape:cx="99.366009"
+     inkscape:cy="296.04718"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-height="696"
@@ -41,7 +41,7 @@
      inkscape:window-width="1366"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="3.776"
+     inkscape:zoom="2.6700352"
      objecttolerance="10"
      pagecolor="#323232"
      showgrid="true"
@@ -1653,7 +1653,7 @@
   <g
      id="button-toggled-bottom"
      transform="translate(140,1)"
-     style="fill:#5a6381;fill-opacity:1">
+     style="fill:#5a6381;fill-opacity:1;opacity:0.205">
     <path
        id="path1264-8"
        d="m 9,68 v 5 h 26 v -5 z"
@@ -1663,7 +1663,7 @@
   <g
      id="button-toggled-top"
      transform="translate(140,1)"
-     style="fill:#5a6381;fill-opacity:1">
+     style="fill:#5a6381;fill-opacity:1;opacity:0.205">
     <path
        id="path1279-7"
        d="m 9,37 v 5 h 26 v -5 z"
@@ -1673,7 +1673,7 @@
   <g
      id="button-toggled-left"
      transform="translate(140,1)"
-     style="fill:#5a6381;fill-opacity:1">
+     style="fill:#5a6381;fill-opacity:1;opacity:0.205">
     <path
        id="path1294-6"
        d="M 4,42 V 68 H 9 V 42 Z"
@@ -1683,7 +1683,7 @@
   <g
      id="button-toggled-right"
      transform="translate(140,1)"
-     style="fill:#5a6381;fill-opacity:1">
+     style="fill:#5a6381;fill-opacity:1;opacity:0.205">
     <path
        id="path1299-2"
        d="m 35,42 v 26 h 5 V 42 Z"
@@ -1696,11 +1696,11 @@
      y="43"
      width="26"
      height="26"
-     style="fill:#5a6381;fill-opacity:1" />
+     style="fill:#5a6381;fill-opacity:1;opacity:0.205" />
   <g
      id="button-toggled-topleft"
      transform="translate(140,1)"
-     style="fill:#5a6381;fill-opacity:1">
+     style="fill:#5a6381;fill-opacity:1;opacity:0.205">
     <path
        id="path1284-3"
        transform="translate(-141)"
@@ -1711,7 +1711,7 @@
   <g
      id="button-toggled-bottomleft"
      transform="matrix(1,0,0,-1,140,111)"
-     style="fill:#5a6381;fill-opacity:1">
+     style="fill:#5a6381;fill-opacity:1;opacity:0.205">
     <path
        id="path1942-4"
        transform="matrix(1,0,0,-1,-141,110)"
@@ -1727,7 +1727,7 @@
      xlink:href="#button-toggled-bottomleft"
      x="0"
      y="0"
-     style="fill:#5a6381;fill-opacity:1" />
+     style="fill:#5a6381;fill-opacity:1;opacity:1" />
   <g
      id="combo-normal-bottom"
      transform="translate(93.5,-9)">
@@ -1867,7 +1867,7 @@
      xlink:href="#button-toggled-topleft"
      x="0"
      y="0"
-     style="fill:#5a6381;fill-opacity:1" />
+     style="fill:#38ffeb;fill-opacity:1;opacity:1" />
   <path
      id="menu-normal"
      d="m112 576h48v48h-48z"
@@ -2365,21 +2365,21 @@
      height="10"
      opacity="0" />
   <rect
-     style="fill:#a27fd6;fill-opacity:1"
+     style="fill:#5a6381;fill-opacity:1"
      height="10"
      width="10"
      y="718.51001"
      x="26.413"
      id="tab-toggled-bottom" />
   <rect
-     style="fill:#a27fd6;fill-opacity:1"
+     style="fill:#5a6381;fill-opacity:1"
      height="10"
      width="10"
      y="718.51001"
      x="36.412998"
      id="tab-toggled-bottomright" />
   <rect
-     style="fill:#a27fd6;fill-opacity:1"
+     style="fill:#5a6381;fill-opacity:1"
      height="10"
      width="10"
      y="718.51001"
@@ -2441,7 +2441,7 @@
     <path
        id="path398"
        d="m 391.23,418.23 h -18.461 v 5.769 h 18.462 z"
-       style="fill:#a27fd6;fill-opacity:1"
+       style="fill:#5a6381;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -2458,7 +2458,7 @@
        y="418.23001"
        width="5.7690001"
        height="5.7690001"
-       style="fill:#a27fd6;fill-opacity:1" />
+       style="fill:#5a6381;fill-opacity:1" />
   </g>
   <g
      id="menubaritem-pressed-bottomright"
@@ -2474,7 +2474,7 @@
        y="418.23001"
        width="5.7690001"
        height="5.7690001"
-       style="fill:#a27fd6;fill-opacity:1" />
+       style="fill:#5a6381;fill-opacity:1" />
   </g>
   <rect
      style="fill:#a27fd6;fill-opacity:1"
@@ -6065,10 +6065,10 @@
   <g
      transform="translate(140,1)"
      id="g1945"
-     style="fill:#5a6381;fill-opacity:1">
+     style="fill:#5a6381;fill-opacity:0;opacity:0.239">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#5a6381;fill-opacity:1"
+       style="fill:#5a6381;fill-opacity:0"
        d="m 150,37 c -2.77,0 -5,2.23 -5,5 h 5 z"
        transform="translate(-141)"
        id="path1943" />
