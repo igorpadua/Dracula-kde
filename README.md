@@ -36,3 +36,6 @@ https://github.com/vinceliuice/ChromeOS-kde
 #Color Schemes apenas feito uma unica mudança
 
 https://store.kde.org/p/1249119
+
+## Preview
+![./preview.png]
