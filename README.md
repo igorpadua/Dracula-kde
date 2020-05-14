@@ -38,4 +38,4 @@ https://github.com/vinceliuice/ChromeOS-kde
 https://store.kde.org/p/1249119
 
 ## Preview
-![1](../preview.png)
+![1](./preview.png)
