@@ -103,8 +103,8 @@ ForegroundPositive=1,162,153
 ForegroundVisited=0,188,212
 
 [General]
-ColorScheme=ChromeOSDark
-Name=ChromeOSDark
+ColorScheme=Dracula-kde
+Name=Dracula-kde
 shadeSortColumn=true
 
 [KDE]
