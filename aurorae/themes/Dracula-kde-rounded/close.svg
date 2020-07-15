@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="close.svg"
+   version="1.1"
+   enable-background="new"
+   height="22"
+   width="22"
+   id="svg4306">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs27" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg4306"
+     inkscape:window-maximized="1"
+     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:cy="55.796004"
+     inkscape:cx="-17.213123"
+     inkscape:zoom="5.3636364"
+     showgrid="false"
+     id="namedview25"
+     inkscape:window-height="736"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     transform="translate(-83.287 158.31)"
+     id="active-center">
+    <g
+       transform="translate(-1207.4 -402.64)"
+       id="g6202-6">
+      <ellipse
+         opacity=".5"
+         fill="#b2b2b2"
+         ry="8"
+         rx="8"
+         cy="255"
+         cx="1302"
+         id="ellipse6176-7" />
+    </g>
+    <rect
+       fill="none"
+       height="16"
+       width="16"
+       y="-155.64"
+       x="86.625"
+       id="rect6204-9" />
+  </g>
+  <g
+     transform="translate(-83.287 202.31)"
+     id="pressed-center">
+    <g
+       transform="translate(-1207.4 -402.64)"
+       id="g6344-3">
+      <path
+         d="m 1310,255 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8"
+         style="opacity:0.95;fill-opacity:1;fill:#ff5555"
+         id="ellipse6320-6" />
+    </g>
+    <path
+       style="text-decoration-line:none;text-indent:0;text-transform:none"
+       fill="#fff"
+       enable-background="new"
+       color="#bebebe"
+       d="m91.626-150.64h0.75c8e-3 -9e-5 0.0156-3.5e-4 0.0234 0 0.19122 8e-3 0.3824 0.0964 0.51563 0.23437l1.7109 1.7109 1.7344-1.7109c0.19922-0.17287 0.335-0.22912 0.51562-0.23437h0.75v0.75c0 0.21485-0.0257 0.41298-0.1875 0.5625l-1.7109 1.7109 1.6875 1.6875c0.14114 0.14113 0.21093 0.34009 0.21093 0.53907v0.75h-0.75c-0.19897-1e-5 -0.39793-0.0698-0.53906-0.21094l-1.7109-1.7109-1.7109 1.7109c-0.14113 0.14114-0.3401 0.21094-0.53907 0.21094h-0.75v-0.75c0-0.19897 0.0698-0.39794 0.21094-0.53907l1.7109-1.6875-1.7109-1.7109c-0.15805-0.14598-0.22737-0.35194-0.21094-0.5625v-0.75z"
+       id="path6346-2" />
+    <rect
+       fill="none"
+       height="16"
+       width="16"
+       y="-155.64"
+       x="86.625"
+       id="rect6348-3" />
+  </g>
+  <g
+     inkscape:label="#hover-center"
+     transform="translate(-83.287 226.31)"
+     id="hover-center">
+    <g
+       transform="translate(-1207.4 -402.64)"
+       id="g6440-7">
+      <circle
+         opacity=".95"
+         fill="#f55"
+         r="8"
+         cy="255"
+         cx="1302"
+         id="ellipse6416-5" />
+    </g>
+    <path
+       style="text-decoration-line:none;text-indent:0;text-transform:none"
+       fill="#fff"
+       enable-background="new"
+       color="#bebebe"
+       d="m91.626-150.64h0.75c8e-3 -9e-5 0.0156-3.5e-4 0.0234 0 0.19122 8e-3 0.3824 0.0964 0.51563 0.23437l1.7109 1.7109 1.7344-1.7109c0.19922-0.17287 0.335-0.22912 0.51562-0.23437h0.75v0.75c0 0.21485-0.0257 0.41298-0.1875 0.5625l-1.7109 1.7109 1.6875 1.6875c0.14114 0.14113 0.21093 0.34009 0.21093 0.53907v0.75h-0.75c-0.19897-1e-5 -0.39793-0.0698-0.53906-0.21094l-1.7109-1.7109-1.7109 1.7109c-0.14113 0.14114-0.3401 0.21094-0.53907 0.21094h-0.75v-0.75c0-0.19897 0.0698-0.39794 0.21094-0.53907l1.7109-1.6875-1.7109-1.7109c-0.15805-0.14598-0.22737-0.35194-0.21094-0.5625v-0.75z"
+       id="path6442-9" />
+    <rect
+       fill="none"
+       height="16"
+       width="16"
+       y="-155.64"
+       x="86.625"
+       id="rect6444-3" />
+  </g>
+  <g
+     opacity=".5"
+     transform="translate(-83.287 179.31)"
+     id="inactive-center">
+    <g
+       opacity="1"
+       transform="translate(-1207.4 -402.64)"
+       id="g6532-9">
+      <ellipse
+         opacity=".95"
+         fill="#888"
+         ry="8"
+         rx="8"
+         cy="255"
+         cx="1302"
+         id="ellipse6508-4" />
+    </g>
+    <rect
+       opacity="1"
+       fill="none"
+       height="16"
+       width="16"
+       y="-155.64"
+       x="86.625"
+       id="rect6534-3" />
+  </g>
+  <g
+     opacity=".5"
+     transform="translate(-107.45 177.47)"
+     id="deactivated-center">
+    <g
+       opacity="1"
+       transform="translate(-1207.4 -402.64)"
+       id="g1068">
+      <ellipse
+         opacity=".95"
+         fill="#888"
+         ry="8"
+         rx="8"
+         cy="255"
+         cx="1302"
+         id="ellipse1046" />
+    </g>
+    <rect
+       opacity="1"
+       fill="none"
+       height="16"
+       width="16"
+       y="-155.64"
+       x="86.625"
+       id="rect1070" />
+  </g>
+</svg>
