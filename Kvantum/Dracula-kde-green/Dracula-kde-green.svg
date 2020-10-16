@@ -12,7 +12,7 @@
    width="450"
    height="1e3"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="Dracula-kde.svg"
+   sodipodi:docname="Dracula-kde-green.svg"
    version="1">
   <metadata
      id="metadata1108">
@@ -32,16 +32,16 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:current-layer="svg1604"
-     inkscape:cx="-164.14689"
-     inkscape:cy="857.21806"
+     inkscape:cx="61.086227"
+     inkscape:cy="970.12617"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-height="736"
+     inkscape:window-height="696"
      inkscape:window-maximized="1"
      inkscape:window-width="1366"
      inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:zoom="0.50000001"
+     inkscape:window-y="0"
+     inkscape:zoom="8.0000002"
      objecttolerance="10"
      pagecolor="#323232"
      showgrid="true"
@@ -2485,108 +2485,108 @@
        style="fill:#5a6381;fill-opacity:1" />
   </g>
   <rect
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      height="4"
      width="8"
      y="966.51001"
      x="53.412998"
      id="itemview-pressed-top" />
   <rect
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      height="4"
      width="8"
      y="978.51001"
      x="53.412998"
      id="itemview-pressed-bottom" />
   <path
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 53.413,970.51 h 8 v 8 h -8 z"
      id="itemview-pressed" />
   <path
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 61.413,966.51 c 4,0 4,4 4,4 h -4 z"
      id="itemview-pressed-topright" />
   <path
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 61.413,978.51 h 4 c 0,0 0,4 -4,4 z"
      id="itemview-pressed-bottomright" />
   <rect
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      height="8"
      width="4"
      y="970.51001"
      x="61.412998"
      id="itemview-pressed-right" />
   <rect
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      height="8"
      width="4"
      y="970.51001"
      x="49.412998"
      id="itemview-pressed-left" />
   <path
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 53.413,966.51 v 4 h -4 c 0,0 0,-4 4,-4 z"
      id="itemview-pressed-topleft" />
   <path
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 49.413,978.51 h 4 v 4 c -4,0 -4,-4 -4,-4 z"
      id="itemview-pressed-bottomleft" />
   <rect
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      height="4"
      width="8"
      y="966.51001"
      x="72.413002"
      id="itemview-toggled-top" />
   <rect
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      height="4"
      width="8"
      y="978.51001"
      x="72.413002"
      id="itemview-toggled-bottom" />
   <path
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 72.413,970.51 h 8 v 8 h -8 z"
      id="itemview-toggled" />
   <rect
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      height="8"
      width="4"
      y="970.51001"
      x="80.413002"
      id="itemview-toggled-right" />
   <path
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 80.413,966.51 c 4,0 4,4 4,4 h -4 z"
      id="itemview-toggled-topright" />
   <path
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 80.413,978.51 h 4 c 0,0 0,4 -4,4 z"
      id="itemview-toggled-bottomright" />
   <rect
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      height="8"
      width="4"
      y="970.51001"
      x="68.413002"
      id="itemview-toggled-left" />
   <path
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 72.413,966.51 v 4 h -4 c 0,0 0,-4 4,-4 z"
      id="itemview-toggled-topleft" />
   <path
-     style="fill:#50fa7b;fill-opacity:1"
+     style="fill:#41d461;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 68.413,978.51 h 4 v 4 c -4,0 -4,-4 -4,-4 z"
      id="itemview-toggled-bottomleft" />
